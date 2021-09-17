@@ -32,6 +32,7 @@ a {
   color: #ddd;
   text-decoration: none;
   text-transform: uppercase;
+  transition:0.5s;
 }
 
 a:hover {
@@ -246,6 +247,7 @@ h1 {
   align-items: center;
   cursor: pointer;
   max-width: 800px;
+  transitiom:0.5s
 }
 
 #sec-3 .about:hover {
@@ -328,6 +330,7 @@ footer {
 
 .socials a:hover i {
   color: aqua;
+  trasform:scaleY(25%)
 }
 
 .footer-bottom {
